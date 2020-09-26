@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NService.Client": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
